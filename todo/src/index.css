@@ -1,0 +1,18 @@
+body {
+  margin: 30px;
+  font-family: cursive;
+  background-color: rgb(207, 223, 193);
+}
+
+.row, button {
+  margin-bottom: 10px;
+}
+
+th, h3 {
+  color: rgb(35, 71, 59);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
